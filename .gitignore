@@ -1,0 +1,38 @@
+# Flutter/Dart/Pub related
+/.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# iOS related
+/ios/Flutter/.last_build_id
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/App.framework
+/ios/Pods/
+/ios/Runner.xcworkspace/
+/ios/Runner/GeneratedPluginRegistrant.*
+
+# Android related
+/android/app/*.jks
+/android/app/*.keystore
+/android/app/build/
+/android/**/*.iml
+
+# Web related
+/web/index.html
+/web/manifest.json
+
+# IDEs and Editors
+/.idea/
+.vscode/
+*.iml
+
+# Visual Studio Code
+.vscode/*
+
+# Miscellaneous
+**/Thumbs.db
+**/ehthumbs.db
+**/.DS_Store
+**/.DS_Store*
